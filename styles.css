@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+table{
+	background-color:yellow;
+	border:2px solid black;
+	border-top:2px solid gray;	
+    border-left:2px solid gray;
+}
+th{
+  border:2px solid black;
+  border-right:2px solid gray;	
+  border-bottom:2px solid gray;	
+}
+td{
+	border:2px solid black;
+	border-right:2px solid gray;	
+    border-bottom:2px solid gray;
+}
+
