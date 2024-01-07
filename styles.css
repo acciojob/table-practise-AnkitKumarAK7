@@ -6,13 +6,13 @@ table{
     border-left:1px solid gray;
 }
 th{
-  border:2px solid black;
-  border-right:2px solid gray;	
-  border-bottom:2px solid gray;	
+  border:1px solid black;
+  border-right:1px solid gray;	
+  border-bottom:1px solid gray;	
 }
 td{
-	border:2px solid black;
-	border-right:2px solid gray;	
-    border-bottom:2px solid gray;
+	border:1px solid black;
+	border-right:1px solid gray;	
+    border-bottom:1px solid gray;
 }
 
