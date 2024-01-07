@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 table{
 	background-color:yellow;
-	border:2px solid black;
-	border-top:2px solid gray;	
-    border-left:2px solid gray;
+	border:1px solid black;
+	border-top:1px solid gray;	
+    border-left:1px solid gray;
 }
 th{
   border:2px solid black;
