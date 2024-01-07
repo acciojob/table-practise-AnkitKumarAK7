@@ -6,13 +6,14 @@ table{
     border-left:1px solid gray;
 }
 th{
-  border:1px solid black;
-  border-right:1px solid gray;	
-  border-bottom:1px solid gray;	
+  border:1px solid black;	
 }
+tr{
+	border:1px solid black;
+}
+
 td{
 	border:1px solid black;
-	border-right:1px solid gray;	
-    border-bottom:1px solid gray;
 }
+
 
